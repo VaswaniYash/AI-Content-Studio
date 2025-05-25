@@ -70,7 +70,6 @@ Summarize documents and text (uploaded or pasted) in multiple formats — concis
 <img width="1691" alt="Screenshot 2025-05-25 at 7 25 41 PM" src="https://github.com/user-attachments/assets/b8b0d624-a873-4a16-bc6e-ed5e5e468bf7" />
 <img width="1691" alt="Screenshot 2025-05-25 at 7 26 11 PM" src="https://github.com/user-attachments/assets/543a51ea-f372-4a97-92c3-ae67dc9cf5b9" />
 <img width="1691" alt="Screenshot 2025-05-25 at 7 26 51 PM" src="https://github.com/user-attachments/assets/96aff834-9d31-45d5-a999-c4cd794738d9" />
-![PHOTO-2025-05-25-19-30-54](https://github.com/user-attachments/assets/4362490b-2041-4c47-9607-0eaa5a28b0c3)
 
 
 
