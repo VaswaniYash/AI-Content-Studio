@@ -24,12 +24,15 @@ Summarize documents and text (uploaded or pasted) in multiple formats — concis
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend (Optional)**: PHP / Node.js (based on your implementation)
-- **APIs**: OpenAI (GPT-4, DALL·E), Web Speech API (for voice)
-- **Hosting**: Hostinger / Netlify / Vercel
+🛠 Tech Stack
+	•	Next.js 15 (App Router)
+	•	TypeScript
+	•	Tailwind CSS
+	•	Vercel AI SDK
+	•	OpenAI API
+	•	Web Speech API
+	•	Shadcn/ui
+	•	Lucide React
 
 ---
 
@@ -71,7 +74,12 @@ Summarize documents and text (uploaded or pasted) in multiple formats — concis
 <img width="1691" alt="Screenshot 2025-05-25 at 7 26 11 PM" src="https://github.com/user-attachments/assets/543a51ea-f372-4a97-92c3-ae67dc9cf5b9" />
 <img width="1691" alt="Screenshot 2025-05-25 at 7 26 51 PM" src="https://github.com/user-attachments/assets/96aff834-9d31-45d5-a999-c4cd794738d9" />
 
+📦 Installation
 
+git clone https://github.com/your-username/ai-content-studio.git
+cd ai-content-studio
+npm install
+npm run dev
 
 
 
