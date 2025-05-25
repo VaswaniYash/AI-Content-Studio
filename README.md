@@ -57,7 +57,7 @@ Summarize documents and text (uploaded or pasted) in multiple formats — concis
 
 1. Clone the repository:
 
-   ```bash
+   bash
    git clone https://github.com/your-username/ai-content-studio.git
    cd ai-content-studio
 
@@ -76,16 +76,19 @@ Summarize documents and text (uploaded or pasted) in multiple formats — concis
 
 📦 Installation
 
-git clone https://github.com/your-username/ai-content-studio.git
+git clone (https://github.com/VaswaniYash/AI-Content-Studio/tree/main)
+
 cd ai-content-studio
+
 npm install
+
 npm run dev
 
 
 
 
 
-   📃 License
+📃 License
 
 This project is open-source and available under the MIT License.
 
